@@ -1,0 +1,15 @@
+{
+  "name": "tenon-styles",
+  "version": "2.0.0",
+  "description": "SCSS Files for Tenon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/factore/tenon-styles.git"
+  },
+  "author": "factor[e] design initiative",
+  "license": "ISC"
+}

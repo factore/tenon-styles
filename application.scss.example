@@ -1,0 +1,9 @@
+// Save this file in your app as tenon/application.scss
+@import 'tenon/vendor';
+@import 'tenon/variables';
+@import 'tenon/mixins';
+@import 'tenon/vendor_override';
+@import 'tenon/global';
+@import 'tenon/modules';
+
+// Import your own files/write your own styles below here
